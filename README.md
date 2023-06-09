@@ -34,7 +34,8 @@
 
 - ### I’m currently learning 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-square&logo=express&logoColor=%2361DAFB)
+![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
